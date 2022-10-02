@@ -1,6 +1,6 @@
 # Health-Corner
 
-# ✨ Health Corner ✨
+# ✨ Health Corner 
 
 This is a web based application developed for health related based website in india
 
@@ -32,6 +32,10 @@ This is a web based application developed for health related based website in in
 
 
 !![Screenshot (10)](https://user-images.githubusercontent.com/112399811/193473808-af391ce4-7705-4e0e-a7e5-c9cc6e19df55.png)
+
+![Screenshot (13)](https://user-images.githubusercontent.com/112399811/193474427-5b0278f6-e197-4393-acaf-ea9f08f1dc3b.png)
+
+![Screenshot (14)](https://user-images.githubusercontent.com/112399811/193474438-6f69f80c-7d1f-4f72-b650-f6601d2a7ff8.png)
 
 
 
